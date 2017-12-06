@@ -1,48 +1,48 @@
-.image{
+.image {
 background-image: url("./resources\images\the-flatiron-building.png")
 }
-h1{
+h1 {
 font-family: Helvetica;
 font-size: 70px;
 font-weight: bold;
 color: white;
 text-align: center;
 }
-h3{
+h3 {
 font-family: Helvetica;
 font-size: 18px;
 color: white;
 text-align: center;
 }
-.Process{
+.Process {
 font-family: Helvetica;
 font-size: 32px;
 font-weight: bold;
 text-align: center;
 }
-.pictext{
+.pictext {
 font-family: Helvetica;
 font-size: 23px;
 font-weight: bold;
 text-align: center;
 }
-.small{
+.small {
 font-family: Helvetica;
 font-size: 14px;
 text-align: center;
 }
-.nyc{
+.nyc {
 font-family: Helvetica;
 font-sie: 23px;
 font-weight: bold;
 color: white;
 text-align: center;
 }
-.footer{
+.footer {
 background-color: dimgray;
 text-align: left;
 }
-.copy{
+.copy {
 font-family: Helvetica;
 font-size: 11px;
 color: white;
