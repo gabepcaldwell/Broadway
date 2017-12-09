@@ -43,6 +43,7 @@ font-sie: 23px;
 font-weight: bold;
 color: white;
 text-align: center;
+background-image: url("./resources/images/the-flatiron-building.png");
 }
 .footer {
 background-color: dimgray;
