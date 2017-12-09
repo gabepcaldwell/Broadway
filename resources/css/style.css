@@ -1,5 +1,5 @@
 .image {
-background-image: url("./resources/images/the-flatiron-building.png");
+background-image: url("./images/the-flatiron-building.png");
 }
 h1 {
 font-family: Helvetica;
@@ -43,7 +43,7 @@ font-sie: 23px;
 font-weight: bold;
 color: white;
 text-align: center;
-background-image: url("./resources/images/the-flatiron-building.png");
+background-image: url("./images/the-flatiron-building.png");
 }
 .footer {
 background-color: dimgray;
